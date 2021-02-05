@@ -2,29 +2,13 @@ body{
     margin:0px;
     padding: 0px;
     font-family: poppins;
-    background-color: #f8f8f8;
+    background-color: #202020;
 }
 *{
     box-sizing: border-box;
 }
 a{
     text-decoration: none;
-}
-#team{
-    width:100%;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-.heading{
-    font-size: 1.3rem;
-    color: #2c2c2c;
-    font-weight: 500;
-    display: flex;
-    align-items: center;
-    margin: 20px;
 }
 .heading i{
     background-color: #507bfc;
@@ -41,7 +25,7 @@ a{
 .box{
     width:266px;
     height: 340px;
-    background-color: #ffffff;
+    background-color: #121212;
     box-shadow: 2px 2px 30px rgba(0,0,0,0.05);
     display: flex;
     flex-direction: column;
